@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#notes {
+  margin-top: 20px;
+}
+
+.note {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
